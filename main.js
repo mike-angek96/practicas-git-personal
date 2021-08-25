@@ -37,6 +37,10 @@ const data=[
     {
         "name":"anthony",
         "age":24
+    },
+    {
+        "name":"qutberto",
+        "age":28
     }
 ];
 let divData=document.getElementById("data");
