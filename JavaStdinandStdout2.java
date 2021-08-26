@@ -1,5 +1,5 @@
 package logia;
-import java.util.*;
+import java.util.Scanner;
 public class JavaStdinandStdout2 {
 
 	public static void main(String[] args) {
@@ -8,7 +8,6 @@ public class JavaStdinandStdout2 {
         	double d=scan.nextDouble();
         	String s=scan.nextLine();
 
-        // Write your code here.
         	s=scan.nextLine();
         	System.out.println("String: " + s);
         	System.out.println("Double: " + d);
